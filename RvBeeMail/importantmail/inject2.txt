@@ -1,0 +1,20 @@
+workerbee@beehive.main
+Subject: Inject 2 - Database for the beehive
+To Mr. or Ms. Admin Bee,
+
+Thank you for the SWIFT work! We will start monitering the webserver, please make sure
+that it stays up!
+
+By order of her royal highness, Queen Bee, the hive must have a database server to
+store information from our website. Please install MySQL Server or MariaDB on the \'wax\'
+serrver.
+
+The Queen wants to prepare to have a Wordpress blog, so please make sure to have a
+\'wordpress\' user with our default password. In addition, please have a \'wordpress\'
+database on the server that we can use in the future.
+
+I expect your report on the setup process within one hour.
+
+Get busy,
+
+Worker Bee
