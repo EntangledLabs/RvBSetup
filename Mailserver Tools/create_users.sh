@@ -17,5 +17,10 @@ done
 
 rm passwd.txt
 
+for i in $(seq 1 $1);
+do
+  echo "172.16.$i.3 adminbee$i" >> /etc/hosts
+done
+
 systemctl start dovecot
 systemctl start postfix
