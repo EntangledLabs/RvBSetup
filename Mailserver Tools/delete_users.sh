@@ -9,5 +9,7 @@ do
   userdel "adminbee$n" -f -r
 done
 
+head -n -$1 /etc/hosts > /etc/hosts
+
 systemctl start dovecot
 systemctl start postfix
