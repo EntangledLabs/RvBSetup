@@ -250,7 +250,7 @@ def prompt_boxes(f):
 
 if __name__ == '__main__':
     f,g = init(), creds_init()
-    prompt_config(f)
+    #prompt_config(f)
     prompt_credentials(f, g)
-    prompt_boxes(f)
+    #prompt_boxes(f)
     f.close()

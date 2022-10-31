@@ -1,2 +1,19 @@
 workerbee@beehive.main
 Subject: Inject 4 - Wordpress for the beehive
+To Mr. or Ms. Admin Bee,
+
+I'm not sure if you heard the news - it's all the buzz right now.
+
+By order of her royal highness, we are officially having a Wordpress server! I'm sure that this isn't the best news for you right now, especially with all of the breaches we're having, but this needs to be finished soon.
+
+Please install Wordpress on the \'honey\' server. Make sure that it uses the database you set up on the \'wax\' server.
+
+I believe the following resources might help you:
+https://da.gd/wpinst-do
+https://da.gd/wpinst-wp
+
+Please have a report ready within one hour on your installation process, including screenshots.
+
+Don't eat too much honey,
+
+Worker Bee

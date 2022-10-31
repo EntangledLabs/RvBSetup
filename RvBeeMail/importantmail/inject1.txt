@@ -2,19 +2,14 @@ workerbee@beehive.main
 Subject: Inject 1 - Webserver for the beehive
 To Mr. or Ms. Admin Bee,
 
-Welcome to the beehive! We are super excited to have you here, and we bee-lieve that you
-will be a great addition to the hive.
+Welcome to the beehive! We are super excited to have you here, and we bee-lieve that you will be a great addition to the hive.
 
-Recently, her royal highness Queen Bee has expelled the previous Admin Bee for high treason.
-It is now your duty to uphold the integrity of the hive, for the good of the hive. Long
-live the queen!
+Recently, her royal highness Queen Bee has expelled the previous Admin Bee for high treason. It is now your duty to uphold the integrity of the hive, for the good of the hive. Long live the queen!
 
-By the order of her royal highness, the hive is to have a new web server! This news is all
-the buzz around here.
+By the order of her royal highness, the hive is to have a new web server! This news is all the buzz around here.
 
-Please install the apache2 web server on the \'honey\' server so that we may show the world our
-honey goodness. I expect a report on your installation process with screenshots within one hour.
+Please install the apache2 web server on the \'honey\' server so that we may show the world our honey goodness. I expect a report on your installation process with screenshots within one hour.
 
 Buzz buzz,
 
-Worker bee
+Worker Bee

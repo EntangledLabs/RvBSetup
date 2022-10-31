@@ -1,2 +1,17 @@
 workerbee@beehive.main
 Subject: Inject 7 - Urgent beehive repairs needed!
+To Mr. or Ms. Admin Bee,
+
+BUZZZZZZZZZZ!!!
+
+RED ALERT!!!
+
+We have discovered a BIG PROBLEM in the hive! We have been BETRAYED!
+
+A wasp managed to put a vulnerability within the system. We don't know where it is, but we do know that it has to do with authentication.
+
+This is an urgent issue and must be taken care of at once. Please patch the vulnerability as soon as possible.
+
+Keep on buzzing,
+
+Worker Bee

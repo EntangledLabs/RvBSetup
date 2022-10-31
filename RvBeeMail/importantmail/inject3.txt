@@ -1,2 +1,15 @@
 workerbee@beehive.main
 Subject: Inject 3 - PHP is a fun language
+To Mr. or Ms. Admin Bee,
+
+Hello. I am the new Worker Bee. The previous Worker Bee was fired for embezzling honey.
+
+Thank you for your work on the database server. Please make sure to keep it online.
+
+Her royal highness has declared that PHP shall now be the official scripting language of the beehive. Please install PHP 8.0 or above on the \'honey\' server.
+
+Please send a report on how you installed PHP so that we may reference it in the future.
+
+Bzzzzzzzzzzzzzzzzzzzzzzzz,
+
+Worker Bee
