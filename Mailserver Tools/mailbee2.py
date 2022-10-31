@@ -1,4 +1,4 @@
-import smtplib, ssl, os, getpass, argparse
+import smtplib, ssl, getpass, argparse
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
