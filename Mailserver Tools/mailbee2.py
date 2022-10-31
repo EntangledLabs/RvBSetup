@@ -1,4 +1,4 @@
-import smtplib, ssl, os, getpass
+import smtplib, ssl, os, getpass, argparse
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
@@ -47,6 +47,10 @@ def mail_bees(msg_path, scheme=None, attachment=None):
         server.sendmail(sender, test_recv_addr, msg.as_string())
 
 if __name__ == '__main__':
-    cwd = os.getcwd()
-    mail_path = '{}/RvBeeMail/spammail/{}'.format(cwd, 'test.txt')
-    mail_bees(mail_path, scheme='html')
+    parser = argparse.ArgumentParser(description = "Send mail to all of the bees")
+    parser.add_argument('mail_path')
+    parser.add_argument('-s', '--scheme', default=None, choices=[None, 'html', 'HTML'])
+    parser.add_argument('-a', '--attachment', default=None)
+
+    args = parser.parse_args()
+    mail_bees(args.mail_path, args.scheme, args.attachment)
