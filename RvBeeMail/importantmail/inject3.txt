@@ -1,5 +1,5 @@
 workerbee@beehive.main
-Subject: Inject 3 - PHP is a fun language
+Subject: PHP is a fun language
 To Mr. or Ms. Admin Bee,
 
 Hello. I am the new Worker Bee. The previous Worker Bee was fired for embezzling honey.

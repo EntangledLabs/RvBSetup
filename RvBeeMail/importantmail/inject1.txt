@@ -1,5 +1,5 @@
-workerbee@beehive.main
-Subject: Inject 1 - Webserver for the beehive
+humblebee@beehive.main
+Subject: Webserver for the beehive
 To Mr. or Ms. Admin Bee,
 
 Welcome to the beehive! We are super excited to have you here, and we bee-lieve that you will be a great addition to the hive.
@@ -12,4 +12,4 @@ Please install the apache2 web server on the \'honey\' server so that we may sho
 
 Buzz buzz,
 
-Worker Bee
+Humble Bee

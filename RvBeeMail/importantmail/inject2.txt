@@ -1,5 +1,5 @@
 workerbee@beehive.main
-Subject: Inject 2 - Database for the beehive
+Subject: Database for the beehive
 To Mr. or Ms. Admin Bee,
 
 Thank you for the SWIFT work! We will start monitering the webserver, please make sure that it stays up!
